@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/http;//goglikooo.github.io/NFT-React/static/css/main.20d52504.css",
+    "main.js": "/http;//goglikooo.github.io/NFT-React/static/js/main.cc16f070.js",
+    "static/media/image-equilibrium.jpg": "/http;//goglikooo.github.io/NFT-React/static/media/image-equilibrium.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/http;//goglikooo.github.io/NFT-React/index.html",
+    "static/media/icon-clock.svg": "/http;//goglikooo.github.io/NFT-React/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/icon-ethereum.svg": "/http;//goglikooo.github.io/NFT-React/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.20d52504.css.map": "/http;//goglikooo.github.io/NFT-React/static/css/main.20d52504.css.map",
+    "main.cc16f070.js.map": "/http;//goglikooo.github.io/NFT-React/static/js/main.cc16f070.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20d52504.css",
+    "static/js/main.cc16f070.js"
+  ]
+}
