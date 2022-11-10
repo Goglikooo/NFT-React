@@ -1,25 +1,21 @@
-import logo from './logo.svg';
+import Mainpic from './components/Mainpic.js';
 import './App.css';
-
+import Text from './components/Text.js';
+import Eth from './components/Eth.js';
+import Creator from './components/Creator.js';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+<div className='container'>
+  <Mainpic />
+  <Text />
+  <Eth />
+  <Creator />
+</div>
   );
 }
+
+
+
+
 
 export default App;

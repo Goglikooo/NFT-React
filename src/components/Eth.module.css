@@ -1,0 +1,41 @@
+.flex1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 24px;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.flex2{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 50%;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+
+/* Cyan */
+
+color: #00FFF8;
+}
+
+.col {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 50%;
+    color: #8BACD9;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
+}
+
+.pad {
+    margin-right: 6px;
+}
+

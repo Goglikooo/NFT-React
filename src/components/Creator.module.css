@@ -1,0 +1,46 @@
+.credits {
+    display: flex;
+    align-items: center;
+    padding:0 24px;
+    box-sizing: border-box;
+    /* background-color: aquamarine; */
+    /* border-top: 2px solid #2E405A; */
+   
+}
+
+.avatar {
+    height: 33px;
+    width: 33px;
+    margin-right: 8px;
+    
+}
+
+.create {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #8BACD9;
+    
+}
+
+.namelink{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-left: 5px;
+    text-decoration: none;
+    
+}
+
+.line{
+    width: 87%;
+    margin: auto;
+    border-top: 2px solid #2E405A;
+    padding:0 24px;
+    box-sizing: border-box;
+}

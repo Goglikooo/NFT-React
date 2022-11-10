@@ -1,0 +1,21 @@
+.texti {
+    color: white;
+    padding: 0 24px;
+}
+
+.heading {
+    font-family: 'Outfit', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    margin: 0;
+}
+
+.par{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    color: #8BACD9;
+    box-sizing: border-box;
+}
